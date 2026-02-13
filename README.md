@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Netflix gpt
 
 tailwindcss @3 for CRA
+Form validation
+useRef Hook
 
 # Features
 Browse page - post auth
@@ -22,4 +24,4 @@ Browse page - post auth
  - Netflix gpt 
     - search bar
     - movie suggestions
-    
+
